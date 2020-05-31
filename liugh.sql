@@ -13,7 +13,7 @@ File Encoding         : 65001
 Date: 2019-07-14 16:59:02
 */
 
-SET FOREIGN_KEY_CHECKS=0;
+/**SET FOREIGN_KEY_CHECKS=0;*/
 
 -- ----------------------------
 -- Table structure for tb_info_to_user
